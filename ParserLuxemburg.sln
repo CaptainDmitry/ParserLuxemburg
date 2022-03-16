@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParserLuxemburg", "ParserLuxemburg\ParserLuxemburg.csproj", "{1A106D42-6225-4C80-92E2-830CD0E21C42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A106D42-6225-4C80-92E2-830CD0E21C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A106D42-6225-4C80-92E2-830CD0E21C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A106D42-6225-4C80-92E2-830CD0E21C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A106D42-6225-4C80-92E2-830CD0E21C42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D430DD8D-4CFC-4B33-85A0-8F48A8E849C5}
+	EndGlobalSection
+EndGlobal
